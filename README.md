@@ -21,4 +21,4 @@ Modern gaming dashboard featuring player management, progression systems, licens
 
 ## Preview
 
-![Preview](./preview.png)
+![Gaming Control Panel](./src/assets/images/gaming-control-panel-preview.webp)
